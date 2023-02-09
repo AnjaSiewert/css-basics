@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding-left: 25px;
+  padding-top: 30px;
+}
+.image {
+  border-radius: 10%;
+  width: 200px;
+  height: 200px;
+}
+.github {
+  text-transform: uppercase;
+  font-size: 25px;
+}
+
+.repos {
+  font-size: 25px;
+}
+.myaccount {
+  color: grey;
+  font-size: 20px;
+}
+
+.button {
+  border: none;
+  color: rgb(0, 140, 255);
+  background-color: transparent;
+}
